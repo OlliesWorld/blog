@@ -1,0 +1,1 @@
+module.exports = require("/Users/horse/Desktop/sites/gatsby/blog-ollie/node_modules/@dschau/gatsby-theme-blog/src/utils/typography.js")
