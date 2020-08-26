@@ -21,9 +21,9 @@
         "featured": {
           "image": {
             "resize": {
-              "height": 1067,
+              "height": 911,
               "width": 800,
-              "src": "/static/f263b0835bb2cbf10ebe54be85f99172/14b42/firstollie.jpg"
+              "src": "/static/4d6e2833fb24eab9faba50a015dcf19e/14b42/first-ollie.jpg"
             }
           }
         },

@@ -5,13 +5,13 @@ tags:
   - intro
   - Ollie
   - about
-featured: 'ollies_flat.jpeg'
+featured: ollie_flat.jpg
 excerpt: I want to tell you about a very special guy in my life. He is happy all the time!
 draft: true
 ---
 
 Coming Soon!!!
-<img src="ollies_flat.jpeg" alt="Ollie in B&W"/>
+<img src="ollie_flat.jpg" alt="Ollie in B&W"/>
 
 [gatsby]: https://github.com/gatsbyjs/gatsby
 [df]: https://daringfireball.net/colophon/
