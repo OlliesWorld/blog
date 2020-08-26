@@ -1,1 +1,13 @@
-{"data":{"tags":{"group":[{"name":"Ollie","totalCount":3},{"name":"about","totalCount":3},{"name":"intro","totalCount":3}]}},"pageContext":{}}
+{
+  "data": {
+    "tags": {
+      "group": [
+        { "name": "About", "totalCount": 2 },
+        { "name": "Ollie", "totalCount": 3 },
+        { "name": "about", "totalCount": 1 },
+        { "name": "intro", "totalCount": 3 }
+      ]
+    }
+  },
+  "pageContext": {}
+}

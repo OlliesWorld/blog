@@ -4,14 +4,17 @@ title: 3rd Blog
 tags:
   - intro
   - Ollie
-  - about
+  - About
 featured: ollie_flat.jpg
 excerpt: I want to tell you about a very special guy in my life. He is happy all the time!
 draft: true
 ---
 
-Coming Soon!!!
-<img src="ollie_flat.jpg" alt="Ollie in B&W"/>
+<img src="ollie_flat.jpg" alt="Ollie in flat mode"/>
+Ollie and I have been working together since we met. There have only been a handful nights away from each other. He is so much fun and makes sure I take breaks regularly to take him on walks or play. He will sit next to my chair and "groan" at me until I look down. This usually breaks my concentration and I realize it is time to move.
+He has many positions that he is comfortable in and this flat position is my favorite. It doesn't matter what type of surface he is on. Could be gravel, or grass.
+
+One of Ollie's many quirks is he does not like to get his toes muddy. He will jump over or go the long way around if needed. In dire situations he will put his toes in only if there are no other options. 😂
 
 [gatsby]: https://github.com/gatsbyjs/gatsby
 [df]: https://daringfireball.net/colophon/

@@ -1,0 +1,257 @@
+{
+  "expireTime": 9007200853213097000,
+  "key": "transformer-remark-markdown-ast-a13151e2c8057999ac1b7555d7b5ad55-gatsby-remark-code-titlesgatsby-remark-copy-linked-filesgatsby-remark-imagesgatsby-remark-prismjsgatsby-remark-smartypantsgatsby-remark-autolink-headers-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "value": "Ollie and I met unexpectedly at a pet store. I went in to see how the dog rescue runs their adoptions and how the dogs are treated. As I approached the back area where the adoption is being held it got louder with barking. I could tell it was nervous and anxious barking. There were a few people walking around with dogs on leashes and right away you could tell it was their first date. I paused to watch the activity and decide if I should continue into the room where the adoptees were being held. It was mostly empty so I decided to go in and walk around to get a closer look at the dogs. Many were barking at the front of their crates and others were pacing. I felt anxious for them, knowing they were not sure what was going on. There was a pen with puppies that were all spoken for, I kept going. I went to the far wall and walked by the dogs. At first I slowly walked past each dog trying to get a sense of them. But realized quickly this made most of them anxious. So I started looking ahead at the dogs and not stopping. I turned a corner and there was this small white dog laying in his crate chewing on a bone not bothered by the chaos. I went over and knelt down next to his crate and realized he was a puppy. He jumped up and came over wagging. I stuck my finger in and he sniffed, licked it. Then went back to chewing his bone. I was amazed that he was not at all worried about what was going on around him. He was adorable but was going to be a small dog. I was not there for a dog let alone a small dog! I turned around to walk the rest of the room and made it about 5 steps before I was turning around to kneel by the crate. ”You need to wait” is what I told myself. “This is just a trip to see what kind of dogs are here.” I I stood up and went to the table and asked if I could hold this dog. Sure, which one? I took the lady over and she said “Ollie want to go for a walk?”. He jumped up and came to the door. I took Ollie out into the aisle of the store. He was so rollie pollie the leash did not stay and off he ran! “Ollie come back!” and Ollie immediately turned around and ran into my arms! “Well, that is it” I thought. What other 3 month old puppy would listen like that. I picked him up and went to the table and said how do I take him home! I believe that Ollie and I are meant for each other!\n",
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 3, "column": 1, "offset": 2324 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "html",
+            "value": "<figure class=\"gatsby-resp-image-figure\" style>\n    <span class=\"gatsby-resp-image-wrapper\" style=\"position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; \">\n      <span class=\"gatsby-resp-image-background-image\" style=\"padding-bottom: 114.11042944785277%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABplDKbexLOlAKxBn/xAAaEAADAQEBAQAAAAAAAAAAAAABAgMAEgQT/9oACAEBAAEFAr1ZcnqYrSwLc9REz3gw30SNN//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABYRAQEBAAAAAAAAAAAAAAAAABABMf/aAAgBAgEBPwEmn//EAB4QAAMAAQQDAAAAAAAAAAAAAAECEQAQEiExIkJR/9oACAEBAAY/AhDJ3M8oSufc3c12wqfXvQJeBjKayyaf/8QAHhABAAMAAQUBAAAAAAAAAAAAAQARITFRcYGhscH/2gAIAQEAAT8h0v2TXiaB8ByWkG3iXFWgWLwbESakiZR7gDKAfsrpP//aAAwDAQACAAMAAAAQGPc8/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQETH/2gAIAQMBAT8QLHkf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ECM//8QAHhABAQACAgIDAAAAAAAAAAAAAREAITFxUWGRsdH/2gAIAQEAAT8QaIQUVGwL19YXeaGRQrt4xAWFtI9TeV4jhaXYYZAVKoJv8Mo64zToEOJvg+efnGIag73sPdwqoguh8Z//2Q==&apos;); background-size: cover; display: block;\"></span>\n  <img class=\"gatsby-resp-image-image\" alt=\"Fist Ollie Sighting!\" title=\"Fist Ollie Sighting!\" src=\"/static/4d6e2833fb24eab9faba50a015dcf19e/6aca1/first-ollie.jpg\" srcset=\"/static/4d6e2833fb24eab9faba50a015dcf19e/d2f63/first-ollie.jpg 163w,\n/static/4d6e2833fb24eab9faba50a015dcf19e/c989d/first-ollie.jpg 325w,\n/static/4d6e2833fb24eab9faba50a015dcf19e/6aca1/first-ollie.jpg 650w,\n/static/4d6e2833fb24eab9faba50a015dcf19e/7c09c/first-ollie.jpg 975w,\n/static/4d6e2833fb24eab9faba50a015dcf19e/01ab0/first-ollie.jpg 1300w,\n/static/4d6e2833fb24eab9faba50a015dcf19e/8249a/first-ollie.jpg 2224w\" sizes=\"(max-width: 650px) 100vw, 650px\" style=\"width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;\" loading=\"lazy\">\n    </span>\n    <figcaption class=\"gatsby-resp-image-figcaption\">Fist Ollie Sighting!</figcaption>\n  </figure>",
+            "position": {
+              "start": { "line": 3, "column": 1, "offset": 2324 },
+              "end": { "line": 3, "column": 56, "offset": 2379 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 3, "column": 56, "offset": 2379 },
+          "indent": [1]
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby",
+        "label": "gatsby",
+        "title": null,
+        "url": "https://github.com/gatsbyjs/gatsby",
+        "position": {
+          "start": { "line": 5, "column": 1, "offset": 2381 },
+          "end": { "line": 5, "column": 45, "offset": 2425 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "df",
+        "label": "df",
+        "title": null,
+        "url": "https://daringfireball.net/colophon/",
+        "position": {
+          "start": { "line": 6, "column": 1, "offset": 2426 },
+          "end": { "line": 6, "column": 43, "offset": 2468 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "vscode",
+        "label": "vscode",
+        "title": null,
+        "url": "https://code.visualstudio.com/",
+        "position": {
+          "start": { "line": 7, "column": 1, "offset": 2469 },
+          "end": { "line": 7, "column": 41, "offset": 2509 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "hyper",
+        "label": "hyper",
+        "title": null,
+        "url": "https://hyper.is/",
+        "position": {
+          "start": { "line": 8, "column": 1, "offset": 2510 },
+          "end": { "line": 8, "column": 27, "offset": 2536 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "media-temple",
+        "label": "media-temple",
+        "title": null,
+        "url": "https://mediatemple.net",
+        "position": {
+          "start": { "line": 9, "column": 1, "offset": 2537 },
+          "end": { "line": 9, "column": 40, "offset": 2576 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "remark",
+        "label": "remark",
+        "title": null,
+        "url": "https://www.npmjs.com/package/remark",
+        "position": {
+          "start": { "line": 10, "column": 1, "offset": 2577 },
+          "end": { "line": 10, "column": 47, "offset": 2623 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-plugin-catch-links",
+        "label": "gatsby-plugin-catch-links",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-plugin-catch-links",
+        "position": {
+          "start": { "line": 11, "column": 1, "offset": 2624 },
+          "end": { "line": 11, "column": 85, "offset": 2708 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-plugin-styled-components",
+        "label": "gatsby-plugin-styled-components",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-plugin-styled-components",
+        "position": {
+          "start": { "line": 12, "column": 1, "offset": 2709 },
+          "end": { "line": 12, "column": 97, "offset": 2805 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-source-filesystem",
+        "label": "gatsby-source-filesystem",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-source-filesystem",
+        "position": {
+          "start": { "line": 13, "column": 1, "offset": 2806 },
+          "end": { "line": 13, "column": 83, "offset": 2888 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-transformer-remark",
+        "label": "gatsby-transformer-remark",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-transformer-remark",
+        "position": {
+          "start": { "line": 14, "column": 1, "offset": 2889 },
+          "end": { "line": 14, "column": 85, "offset": 2973 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-remark-copy-linked-files",
+        "label": "gatsby-remark-copy-linked-files",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-remark-copy-linked-files",
+        "position": {
+          "start": { "line": 15, "column": 1, "offset": 2974 },
+          "end": { "line": 15, "column": 97, "offset": 3070 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-remark-prismjs",
+        "label": "gatsby-remark-prismjs",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-remark-prismjs",
+        "position": {
+          "start": { "line": 16, "column": 1, "offset": 3071 },
+          "end": { "line": 16, "column": 77, "offset": 3147 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-remark-smartypants",
+        "label": "gatsby-remark-smartypants",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-remark-smartypants",
+        "position": {
+          "start": { "line": 17, "column": 1, "offset": 3148 },
+          "end": { "line": 17, "column": 85, "offset": 3232 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-plugin-react-helmet",
+        "label": "gatsby-plugin-react-helmet",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-plugin-react-helmet",
+        "position": {
+          "start": { "line": 18, "column": 1, "offset": 3233 },
+          "end": { "line": 18, "column": 87, "offset": 3319 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-plugin-offline",
+        "label": "gatsby-plugin-offline",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-plugin-offline",
+        "position": {
+          "start": { "line": 19, "column": 1, "offset": 3320 },
+          "end": { "line": 19, "column": 77, "offset": 3396 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "styled-components",
+        "label": "styled-components",
+        "title": null,
+        "url": "https://www.styled-components.com/",
+        "position": {
+          "start": { "line": 20, "column": 1, "offset": 3397 },
+          "end": { "line": 20, "column": 56, "offset": 3452 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "google-fonts",
+        "label": "google-fonts",
+        "title": null,
+        "url": "https://fonts.google.com/",
+        "position": {
+          "start": { "line": 21, "column": 1, "offset": 3453 },
+          "end": { "line": 21, "column": 42, "offset": 3494 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "webfontloader",
+        "label": "webfontloader",
+        "title": null,
+        "url": "https://github.com/typekit/webfontloader",
+        "position": {
+          "start": { "line": 22, "column": 1, "offset": 3495 },
+          "end": { "line": 22, "column": 58, "offset": 3552 },
+          "indent": []
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 23, "column": 1, "offset": 3553 }
+    }
+  }
+}

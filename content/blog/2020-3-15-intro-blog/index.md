@@ -4,7 +4,7 @@ title: First Blog
 tags:
   - intro
   - Ollie
-  - about
+  - About
 featured: ollie-world2.jpg
 excerpt: I want to tell you about a very special guy in my life. He is happy all the time!
 ---
