@@ -22,4 +22,4 @@ The source code for the [Gatsby][gatsby] driven statically generated blog. See [
 [emotion]: https://emotion.sh/
 [particles.js]: https://github.com/VincentGarreau/particles.js/
 [markdown]: https://en.wikipedia.org/wiki/Markdown
-[remark]: http://remark.js.org/
+[remark]: https://remark.js.org/

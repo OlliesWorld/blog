@@ -1,6 +1,6 @@
 {
-  "expireTime": 9007200853213097000,
-  "key": "transformer-remark-markdown-ast-58b18324c94205d48da960f2891c48ff-gatsby-remark-code-titlesgatsby-remark-copy-linked-filesgatsby-remark-imagesgatsby-remark-prismjsgatsby-remark-smartypantsgatsby-remark-autolink-headers-",
+  "expireTime": 9007200853302300000,
+  "key": "transformer-remark-markdown-ast-80d556ffdb3f4b6a6d6b027f8a771853-gatsby-remark-code-titlesgatsby-remark-copy-linked-filesgatsby-remark-imagesgatsby-remark-prismjsgatsby-remark-smartypantsgatsby-remark-autolink-headers-",
   "val": {
     "type": "root",
     "children": [
@@ -18,17 +18,17 @@
           },
           {
             "type": "html",
-            "value": "<img src=\"ollie-world2.jpg\" alt=\"Ollie b&W\"/>",
+            "value": "<img src=\"ollie-world2.jpg\" alt=\"Ollie bW\"/>",
             "position": {
               "start": { "line": 3, "column": 1, "offset": 772 },
-              "end": { "line": 3, "column": 46, "offset": 817 },
+              "end": { "line": 3, "column": 45, "offset": 816 },
               "indent": []
             }
           }
         ],
         "position": {
           "start": { "line": 2, "column": 1, "offset": 1 },
-          "end": { "line": 3, "column": 46, "offset": 817 },
+          "end": { "line": 3, "column": 45, "offset": 816 },
           "indent": [1]
         }
       },
@@ -39,8 +39,8 @@
         "title": null,
         "url": "https://github.com/gatsbyjs/gatsby",
         "position": {
-          "start": { "line": 5, "column": 1, "offset": 819 },
-          "end": { "line": 5, "column": 45, "offset": 863 },
+          "start": { "line": 5, "column": 1, "offset": 818 },
+          "end": { "line": 5, "column": 45, "offset": 862 },
           "indent": []
         }
       },
@@ -51,8 +51,8 @@
         "title": null,
         "url": "https://daringfireball.net/colophon/",
         "position": {
-          "start": { "line": 6, "column": 1, "offset": 864 },
-          "end": { "line": 6, "column": 43, "offset": 906 },
+          "start": { "line": 6, "column": 1, "offset": 863 },
+          "end": { "line": 6, "column": 43, "offset": 905 },
           "indent": []
         }
       },
@@ -63,8 +63,8 @@
         "title": null,
         "url": "https://code.visualstudio.com/",
         "position": {
-          "start": { "line": 7, "column": 1, "offset": 907 },
-          "end": { "line": 7, "column": 41, "offset": 947 },
+          "start": { "line": 7, "column": 1, "offset": 906 },
+          "end": { "line": 7, "column": 41, "offset": 946 },
           "indent": []
         }
       },
@@ -75,8 +75,8 @@
         "title": null,
         "url": "https://hyper.is/",
         "position": {
-          "start": { "line": 8, "column": 1, "offset": 948 },
-          "end": { "line": 8, "column": 27, "offset": 974 },
+          "start": { "line": 8, "column": 1, "offset": 947 },
+          "end": { "line": 8, "column": 27, "offset": 973 },
           "indent": []
         }
       },
@@ -87,8 +87,8 @@
         "title": null,
         "url": "https://mediatemple.net",
         "position": {
-          "start": { "line": 9, "column": 1, "offset": 975 },
-          "end": { "line": 9, "column": 40, "offset": 1014 },
+          "start": { "line": 9, "column": 1, "offset": 974 },
+          "end": { "line": 9, "column": 40, "offset": 1013 },
           "indent": []
         }
       },
@@ -99,8 +99,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/remark",
         "position": {
-          "start": { "line": 10, "column": 1, "offset": 1015 },
-          "end": { "line": 10, "column": 47, "offset": 1061 },
+          "start": { "line": 10, "column": 1, "offset": 1014 },
+          "end": { "line": 10, "column": 47, "offset": 1060 },
           "indent": []
         }
       },
@@ -111,8 +111,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-plugin-catch-links",
         "position": {
-          "start": { "line": 11, "column": 1, "offset": 1062 },
-          "end": { "line": 11, "column": 85, "offset": 1146 },
+          "start": { "line": 11, "column": 1, "offset": 1061 },
+          "end": { "line": 11, "column": 85, "offset": 1145 },
           "indent": []
         }
       },
@@ -123,8 +123,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-plugin-styled-components",
         "position": {
-          "start": { "line": 12, "column": 1, "offset": 1147 },
-          "end": { "line": 12, "column": 97, "offset": 1243 },
+          "start": { "line": 12, "column": 1, "offset": 1146 },
+          "end": { "line": 12, "column": 97, "offset": 1242 },
           "indent": []
         }
       },
@@ -135,8 +135,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-source-filesystem",
         "position": {
-          "start": { "line": 13, "column": 1, "offset": 1244 },
-          "end": { "line": 13, "column": 83, "offset": 1326 },
+          "start": { "line": 13, "column": 1, "offset": 1243 },
+          "end": { "line": 13, "column": 83, "offset": 1325 },
           "indent": []
         }
       },
@@ -147,8 +147,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-transformer-remark",
         "position": {
-          "start": { "line": 14, "column": 1, "offset": 1327 },
-          "end": { "line": 14, "column": 85, "offset": 1411 },
+          "start": { "line": 14, "column": 1, "offset": 1326 },
+          "end": { "line": 14, "column": 85, "offset": 1410 },
           "indent": []
         }
       },
@@ -159,8 +159,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-remark-copy-linked-files",
         "position": {
-          "start": { "line": 15, "column": 1, "offset": 1412 },
-          "end": { "line": 15, "column": 97, "offset": 1508 },
+          "start": { "line": 15, "column": 1, "offset": 1411 },
+          "end": { "line": 15, "column": 97, "offset": 1507 },
           "indent": []
         }
       },
@@ -171,8 +171,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-remark-prismjs",
         "position": {
-          "start": { "line": 16, "column": 1, "offset": 1509 },
-          "end": { "line": 16, "column": 77, "offset": 1585 },
+          "start": { "line": 16, "column": 1, "offset": 1508 },
+          "end": { "line": 16, "column": 77, "offset": 1584 },
           "indent": []
         }
       },
@@ -183,8 +183,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-remark-smartypants",
         "position": {
-          "start": { "line": 17, "column": 1, "offset": 1586 },
-          "end": { "line": 17, "column": 85, "offset": 1670 },
+          "start": { "line": 17, "column": 1, "offset": 1585 },
+          "end": { "line": 17, "column": 85, "offset": 1669 },
           "indent": []
         }
       },
@@ -195,8 +195,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-plugin-react-helmet",
         "position": {
-          "start": { "line": 18, "column": 1, "offset": 1671 },
-          "end": { "line": 18, "column": 87, "offset": 1757 },
+          "start": { "line": 18, "column": 1, "offset": 1670 },
+          "end": { "line": 18, "column": 87, "offset": 1756 },
           "indent": []
         }
       },
@@ -207,8 +207,8 @@
         "title": null,
         "url": "https://www.npmjs.com/package/gatsby-plugin-offline",
         "position": {
-          "start": { "line": 19, "column": 1, "offset": 1758 },
-          "end": { "line": 19, "column": 77, "offset": 1834 },
+          "start": { "line": 19, "column": 1, "offset": 1757 },
+          "end": { "line": 19, "column": 77, "offset": 1833 },
           "indent": []
         }
       },
@@ -219,8 +219,8 @@
         "title": null,
         "url": "https://www.styled-components.com/",
         "position": {
-          "start": { "line": 20, "column": 1, "offset": 1835 },
-          "end": { "line": 20, "column": 56, "offset": 1890 },
+          "start": { "line": 20, "column": 1, "offset": 1834 },
+          "end": { "line": 20, "column": 56, "offset": 1889 },
           "indent": []
         }
       },
@@ -231,8 +231,8 @@
         "title": null,
         "url": "https://fonts.google.com/",
         "position": {
-          "start": { "line": 21, "column": 1, "offset": 1891 },
-          "end": { "line": 21, "column": 42, "offset": 1932 },
+          "start": { "line": 21, "column": 1, "offset": 1890 },
+          "end": { "line": 21, "column": 42, "offset": 1931 },
           "indent": []
         }
       },
@@ -243,15 +243,15 @@
         "title": null,
         "url": "https://github.com/typekit/webfontloader",
         "position": {
-          "start": { "line": 22, "column": 1, "offset": 1933 },
-          "end": { "line": 22, "column": 58, "offset": 1990 },
+          "start": { "line": 22, "column": 1, "offset": 1932 },
+          "end": { "line": 22, "column": 58, "offset": 1989 },
           "indent": []
         }
       }
     ],
     "position": {
       "start": { "line": 1, "column": 1, "offset": 0 },
-      "end": { "line": 23, "column": 1, "offset": 1991 }
+      "end": { "line": 23, "column": 1, "offset": 1990 }
     }
   }
 }
