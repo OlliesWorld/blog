@@ -6,10 +6,10 @@
       "image": {
         "childImageSharp": {
           "fluid": {
-            "aspectRatio": 0.75,
-            "src": "/static/df74c735624fd72477085de7c3e9a65e/01f8d/me.jpg",
-            "srcSet": "/static/df74c735624fd72477085de7c3e9a65e/aabdf/me.jpg 150w,\n/static/df74c735624fd72477085de7c3e9a65e/9dc27/me.jpg 300w,\n/static/df74c735624fd72477085de7c3e9a65e/01f8d/me.jpg 375w",
-            "sizes": "(max-width: 375px) 100vw, 375px"
+            "aspectRatio": 1.7857142857142858,
+            "src": "/static/973a86b5d6d623a93e4852c12d937ba9/4fe8c/me.jpg",
+            "srcSet": "/static/973a86b5d6d623a93e4852c12d937ba9/aabdf/me.jpg 150w,\n/static/973a86b5d6d623a93e4852c12d937ba9/9dc27/me.jpg 300w,\n/static/973a86b5d6d623a93e4852c12d937ba9/4fe8c/me.jpg 600w,\n/static/973a86b5d6d623a93e4852c12d937ba9/9842e/me.jpg 900w,\n/static/973a86b5d6d623a93e4852c12d937ba9/47498/me.jpg 1200w,\n/static/973a86b5d6d623a93e4852c12d937ba9/d8255/me.jpg 1920w",
+            "sizes": "(max-width: 600px) 100vw, 600px"
           }
         }
       },

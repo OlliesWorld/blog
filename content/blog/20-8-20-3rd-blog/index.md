@@ -1,6 +1,6 @@
 ---
 date: 2020-03-15T23:36:56.503Z
-title: 3rd Blog
+title: Quirk Blog
 tags:
   - intro
   - Ollie

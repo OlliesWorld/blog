@@ -1,1 +1,12 @@
-{"data":{"site":{"siteMetadata":{"author":"Blogs by Ollie","description":"The blog of the Adventures of Ollie and Roni","siteUrl":"https://blog.dustinschau.com","social":{"twitter":"blueskyroni"}}}}}
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "author": "Blogs by Ollie",
+        "description": "The blog of the Adventures of Ollie and Roni",
+        "siteUrl": "https://olliesblog.netlify.app",
+        "social": { "twitter": "blueskyroni" }
+      }
+    }
+  }
+}
