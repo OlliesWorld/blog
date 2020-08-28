@@ -1,0 +1,257 @@
+{
+  "expireTime": 9007200853320367000,
+  "key": "transformer-remark-markdown-ast-3427d471062f210d2e5e65e92212319a-gatsby-remark-code-titlesgatsby-remark-copy-linked-filesgatsby-remark-imagesgatsby-remark-prismjsgatsby-remark-smartypantsgatsby-remark-autolink-headers-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "html",
+        "value": "<figure class=\"gatsby-resp-image-figure\" style>\n    <span class=\"gatsby-resp-image-wrapper\" style=\"position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; \">\n      <span class=\"gatsby-resp-image-background-image\" style=\"padding-bottom: 149.69325153374234%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABuTvOlrEA1QtnSgSD/8QAHBABAQACAgMAAAAAAAAAAAAAAgEDIQASEBMx/9oACAEBAAEFAhj1kMHjHtOLHwmQnaeSe2/e/FYml2v/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAACAQQDAAAAAAAAAAAAAAABEQACECFBEjFh/9oACAEBAAY/AsnF1UWDqcNPFhPenc1ARqf/xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMVFB8P/aAAgBAQABPyE1Ow9iHcmR8sqtCEi4O4QEt9lbE0rx+KjDEQezv5fsxQJ//9oADAMBAAIAAwAAABC05H7/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxCJP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQQf/aAAgBAgEBPxDIM//EABwQAQACAwEBAQAAAAAAAAAAAAEAESExQVFhsf/aAAgBAQABPxClkZDBH8mMPSr79lLsDKBAiXyocHNGT9PNwoXZErTSmytqaIFtpOxQvvqIzEw08UuK5HTeGpSgL69REsOyf//Z&apos;); background-size: cover; display: block;\"></span>\n  <img class=\"gatsby-resp-image-image\" alt=\"Ollie in flat mode\" title=\"Ollie in flat mode\" src=\"/static/8c3ccd42634351971864b7f2b4d96b3f/6aca1/ollie_flat.jpg\" srcset=\"/static/8c3ccd42634351971864b7f2b4d96b3f/d2f63/ollie_flat.jpg 163w,\n/static/8c3ccd42634351971864b7f2b4d96b3f/c989d/ollie_flat.jpg 325w,\n/static/8c3ccd42634351971864b7f2b4d96b3f/6aca1/ollie_flat.jpg 650w,\n/static/8c3ccd42634351971864b7f2b4d96b3f/7c09c/ollie_flat.jpg 975w,\n/static/8c3ccd42634351971864b7f2b4d96b3f/01ab0/ollie_flat.jpg 1300w,\n/static/8c3ccd42634351971864b7f2b4d96b3f/db58d/ollie_flat.jpg 2024w\" sizes=\"(max-width: 650px) 100vw, 650px\" style=\"width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;\" loading=\"lazy\">\n    </span>\n    <figcaption class=\"gatsby-resp-image-figcaption\">Ollie in flat mode</figcaption>\n  </figure>\nOllie and I have been working together since we met. There have only been a handful nights away from each other. He is so much fun and makes sure I take breaks regularly to take him on walks or play. He will sit next to my chair and &quot;groan&quot; at me until I look down. This usually breaks my concentration and I realize it is time to move.\nHe has many positions that he is comfortable in and this flat position is my favorite. It doesn&apos;t matter what type of surface he is on. Could be gravel, or grass.",
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 4, "column": 163, "offset": 553 },
+          "indent": [1, 1]
+        }
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "value": "One of Ollie’s many quirks is he does not like to get his toes muddy. He will jump over or go the long way around if needed. In dire situations he will put his toes in only if there are no other options. 😂",
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 555 },
+              "end": { "line": 6, "column": 207, "offset": 761 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 6, "column": 1, "offset": 555 },
+          "end": { "line": 6, "column": 207, "offset": 761 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby",
+        "label": "gatsby",
+        "title": null,
+        "url": "https://github.com/gatsbyjs/gatsby",
+        "position": {
+          "start": { "line": 8, "column": 1, "offset": 763 },
+          "end": { "line": 8, "column": 45, "offset": 807 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "df",
+        "label": "df",
+        "title": null,
+        "url": "https://daringfireball.net/colophon/",
+        "position": {
+          "start": { "line": 9, "column": 1, "offset": 808 },
+          "end": { "line": 9, "column": 43, "offset": 850 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "vscode",
+        "label": "vscode",
+        "title": null,
+        "url": "https://code.visualstudio.com/",
+        "position": {
+          "start": { "line": 10, "column": 1, "offset": 851 },
+          "end": { "line": 10, "column": 41, "offset": 891 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "hyper",
+        "label": "hyper",
+        "title": null,
+        "url": "https://hyper.is/",
+        "position": {
+          "start": { "line": 11, "column": 1, "offset": 892 },
+          "end": { "line": 11, "column": 27, "offset": 918 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "media-temple",
+        "label": "media-temple",
+        "title": null,
+        "url": "https://mediatemple.net",
+        "position": {
+          "start": { "line": 12, "column": 1, "offset": 919 },
+          "end": { "line": 12, "column": 40, "offset": 958 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "remark",
+        "label": "remark",
+        "title": null,
+        "url": "https://www.npmjs.com/package/remark",
+        "position": {
+          "start": { "line": 13, "column": 1, "offset": 959 },
+          "end": { "line": 13, "column": 47, "offset": 1005 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-plugin-catch-links",
+        "label": "gatsby-plugin-catch-links",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-plugin-catch-links",
+        "position": {
+          "start": { "line": 14, "column": 1, "offset": 1006 },
+          "end": { "line": 14, "column": 85, "offset": 1090 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-plugin-styled-components",
+        "label": "gatsby-plugin-styled-components",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-plugin-styled-components",
+        "position": {
+          "start": { "line": 15, "column": 1, "offset": 1091 },
+          "end": { "line": 15, "column": 97, "offset": 1187 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-source-filesystem",
+        "label": "gatsby-source-filesystem",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-source-filesystem",
+        "position": {
+          "start": { "line": 16, "column": 1, "offset": 1188 },
+          "end": { "line": 16, "column": 83, "offset": 1270 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-transformer-remark",
+        "label": "gatsby-transformer-remark",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-transformer-remark",
+        "position": {
+          "start": { "line": 17, "column": 1, "offset": 1271 },
+          "end": { "line": 17, "column": 85, "offset": 1355 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-remark-copy-linked-files",
+        "label": "gatsby-remark-copy-linked-files",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-remark-copy-linked-files",
+        "position": {
+          "start": { "line": 18, "column": 1, "offset": 1356 },
+          "end": { "line": 18, "column": 97, "offset": 1452 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-remark-prismjs",
+        "label": "gatsby-remark-prismjs",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-remark-prismjs",
+        "position": {
+          "start": { "line": 19, "column": 1, "offset": 1453 },
+          "end": { "line": 19, "column": 77, "offset": 1529 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-remark-smartypants",
+        "label": "gatsby-remark-smartypants",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-remark-smartypants",
+        "position": {
+          "start": { "line": 20, "column": 1, "offset": 1530 },
+          "end": { "line": 20, "column": 85, "offset": 1614 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-plugin-react-helmet",
+        "label": "gatsby-plugin-react-helmet",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-plugin-react-helmet",
+        "position": {
+          "start": { "line": 21, "column": 1, "offset": 1615 },
+          "end": { "line": 21, "column": 87, "offset": 1701 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "gatsby-plugin-offline",
+        "label": "gatsby-plugin-offline",
+        "title": null,
+        "url": "https://www.npmjs.com/package/gatsby-plugin-offline",
+        "position": {
+          "start": { "line": 22, "column": 1, "offset": 1702 },
+          "end": { "line": 22, "column": 77, "offset": 1778 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "styled-components",
+        "label": "styled-components",
+        "title": null,
+        "url": "https://www.styled-components.com/",
+        "position": {
+          "start": { "line": 23, "column": 1, "offset": 1779 },
+          "end": { "line": 23, "column": 56, "offset": 1834 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "google-fonts",
+        "label": "google-fonts",
+        "title": null,
+        "url": "https://fonts.google.com/",
+        "position": {
+          "start": { "line": 24, "column": 1, "offset": 1835 },
+          "end": { "line": 24, "column": 42, "offset": 1876 },
+          "indent": []
+        }
+      },
+      {
+        "type": "definition",
+        "identifier": "webfontloader",
+        "label": "webfontloader",
+        "title": null,
+        "url": "https://github.com/typekit/webfontloader",
+        "position": {
+          "start": { "line": 25, "column": 1, "offset": 1877 },
+          "end": { "line": 25, "column": 58, "offset": 1934 },
+          "indent": []
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 26, "column": 1, "offset": 1935 }
+    }
+  }
+}

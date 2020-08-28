@@ -1,0 +1,26 @@
+{
+  "componentChunkName": "component---cache-dev-404-page-js",
+  "path": "/dev-404-page",
+  "result": {
+    "data": {
+      "allSitePage": {
+        "nodes": [
+          { "path": "/tags/intro" },
+          { "path": "/tags/Ollie" },
+          { "path": "/tags/About" },
+          { "path": "/tags/about" },
+          { "path": "/the-meet" },
+          { "path": "/dev-404-page" },
+          { "path": "/" },
+          { "path": "/404.html" },
+          { "path": "/404" },
+          { "path": "/tags" },
+          { "path": "/quirk-blog" },
+          { "path": "/first-blog" }
+        ]
+      }
+    },
+    "pageContext": {}
+  },
+  "staticQueryHashes": ["2220561337"]
+}
