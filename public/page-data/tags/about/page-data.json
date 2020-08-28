@@ -1,6 +1,6 @@
 {
   "componentChunkName": "component---node-modules-dschau-gatsby-theme-blog-src-templates-tags-js",
-  "path": "/tags/About",
+  "path": "/tags/about",
   "result": {
     "pageContext": {
       "tags": [

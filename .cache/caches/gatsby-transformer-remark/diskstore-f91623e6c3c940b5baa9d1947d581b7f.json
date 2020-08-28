@@ -1,6 +1,6 @@
 {
-  "expireTime": 9007200853321005000,
-  "key": "transformer-remark-markdown-ast-20f2e7445b2c873e25bf0c94df6aa667-gatsby-remark-code-titlesgatsby-remark-copy-linked-filesgatsby-remark-imagesgatsby-remark-prismjsgatsby-remark-smartypantsgatsby-remark-autolink-headers-",
+  "expireTime": 9007200853376353000,
+  "key": "transformer-remark-markdown-ast-ad57abf5fd1efd4d7583763d61ccde57-gatsby-remark-code-titlesgatsby-remark-copy-linked-filesgatsby-remark-imagesgatsby-remark-prismjsgatsby-remark-smartypantsgatsby-remark-autolink-headers-",
   "val": {
     "type": "root",
     "children": [
@@ -8,8 +8,8 @@
         "type": "html",
         "value": "<figure class=\"gatsby-resp-image-figure\" style>\n    <span class=\"gatsby-resp-image-wrapper\" style=\"position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 430px; \">\n      <span class=\"gatsby-resp-image-background-image\" style=\"padding-bottom: 142.94478527607362%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABVpsJEDLX2MJqLQ//xAAbEAADAQEBAQEAAAAAAAAAAAABAgMAERMSMv/aAAgBAQABBQIU6Dfo98pGeakFUxTkZpRt491m+Zs50/z/AP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB8QAAIBBAIDAAAAAAAAAAAAAAABEQISITFRYRAyQf/aAAgBAQAGPwJXkwklyeqIwZ1vxU4yZbt7JX0nspfKNs//xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhQTFxgf/aAAgBAQABPyHErb1OxgDT9R1C+Ku+AE4WNVENgJ9gr1sc5KUL2L2dnNeTzFuI2hosSag//9oADAMBAAIAAwAAABCTxAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAdEAEAAwEBAQADAAAAAAAAAAABABEhMUFRkaHw/9oACAEBAAE/ENXFZJj4n45Kwh0dNuAdeeRngPBViKtw0T9RU21g3CBkgxVLS6AqOiI43UMfAlcXyeL87HDmBbz+qEAWQL24G6jaqxDDmZP/2Q==&apos;); background-size: cover; display: block;\"></span>\n  <img class=\"gatsby-resp-image-image\" alt=\"Ollie in B&amp;W\" title=\"Ollie in B&amp;W\" src=\"/static/b9c29ffd87d2b9b0289cccf80fcab798/40c27/ollies-world2.jpg\" srcset=\"/static/b9c29ffd87d2b9b0289cccf80fcab798/d2f63/ollies-world2.jpg 163w,\n/static/b9c29ffd87d2b9b0289cccf80fcab798/c989d/ollies-world2.jpg 325w,\n/static/b9c29ffd87d2b9b0289cccf80fcab798/40c27/ollies-world2.jpg 430w\" sizes=\"(max-width: 430px) 100vw, 430px\" style=\"width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;\" loading=\"lazy\">\n    </span>\n    <figcaption class=\"gatsby-resp-image-figcaption\">Ollie in B&amp;W</figcaption>\n  </figure>\nI want to tell you about a very special guy in my life. He is happy all the time! There is always someone to greet and talk to. NO one is his enemy even if you yell at him. He will forgive you and the next time he will have the same smile for you.He is a great listener and will not judge you in any way. He likes a quick belly rub or hug but not really into snuggles. Ollie is by my side pretty much 24/7 and prefers it that way. We sleep in the same bed and eat together, albeit different meals. He does not judge my taste in music, although he does not like it too loud. The back seat of the truck is where he loves to ride! If you have not guessed yet Ollie is a dog. But not just any dog! He is unique in looks and personality. We met 2 years ago and it was kismet!",
         "position": {
-          "start": { "line": 1, "column": 1, "offset": 0 },
-          "end": { "line": 2, "column": 771, "offset": 820 },
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 3, "column": 771, "offset": 821 },
           "indent": [1]
         }
       },

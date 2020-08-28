@@ -3,7 +3,7 @@
   "description": "Ollie's World blog powered by Gatsby",
   "version": "1.0.0",
   "private": true,
-  "author": "Ollie's World Blog <dustinschau@gmail.com> (https://olliesworld/blog.rocks)",
+  "author": "Ollie's World Blog <rtlockwoodwork@gmail.com> (https://olliesblog.netlify.app)",
   "dependencies": {
     "@dschau/gatsby-theme-blog": "^0.2.3",
     "@dschau/gatsby-theme-utils": "0.0.5",
